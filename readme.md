@@ -9,3 +9,5 @@ Libararies covered in this module:
 - **NumPy:** NumPy is the fundamental package for scientific computing in Python. It provides support for arrays, matrices, and mathematical functions, enabling efficient operations.
 - **Matplotlib:** Matplotlib is a versatile plotting library for creating static, interactive, and publication-quality visualizations.
 - **Seaborn:** Seaborn is a statistical data visualization library built on top of Matplotlib. It provides high-level functions for creating informative and attractive visuals.
+
+- https://numpy.org/devdocs/reference/arrays.scalars.html#numpy.object
